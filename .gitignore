@@ -1,0 +1,10 @@
+.vscode/
+.DS_Store
+*.dSYM/
+**/screenshots/
+Screenshots/
+**/output/
+*.o
+*.out
+*.exe
+a.out
