@@ -3,6 +3,7 @@
 *.dSYM/
 **/screenshots/
 Screenshots/
+C files/
 **/output/
 *.o
 *.out
