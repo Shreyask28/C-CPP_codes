@@ -8,3 +8,5 @@ Screenshots/
 *.out
 *.exe
 a.out
+*.[hH][tT][mM]
+*.[hH][tT][mM][lL]
